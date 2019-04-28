@@ -1,0 +1,284 @@
+body {
+	background: salmon;
+	height: 270vh;
+	
+}
+
+li {
+	font-size: 20px;
+	border: 2px black solid;
+	color: yellow;
+	padding: 10px;
+}
+
+.m {
+	height: 50vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 5px;
+	padding; 0:
+}
+
+.logo {
+	height: 40vh;
+	margin-right: 70px;
+	float: left;
+	text-align: center;
+	background-image: url(../images/mikel.png);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+
+}
+
+.fixed-nav-bar {
+	height: 15vh;
+	width: 90%;
+	position: fixed;
+	top: 15px;
+	bottom: 15px;
+	right: 15px;
+	left: 15px;
+	z-index: 9999;
+}
+
+li {
+	background: lightsalmon;
+	border: 6px;
+	color: black;
+	text-align: center;
+	padding: 15px;
+	font-family: verdana;
+	list-style: none;
+	border-radius: 10px;
+}
+
+.product {
+	height: 80vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	padding: 5px;
+	grid-gap: 5px;
+	margin-top: 150px;
+}
+
+.make1 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture1 {
+	height: 60vh;
+	background-image: url(../images/blush.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+.text1 {
+	color: salmon;
+	text-align: center;
+}
+
+.make2 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture2 {
+	height: 60vh;
+	background-image: url(../images/conceal.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+.text2 {
+	color: salmon;
+	text-align: center;
+}
+
+
+.make3 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture3 {
+	height: 60vh;
+	background-image: url(../images/masca.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+.text3 {
+	color: salmon;
+	text-align: center;
+}
+
+.product2 {
+	height: 80vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	padding: 5px;
+	grid-gap: 5px;
+	margin-top: 10px;
+}
+
+.make11 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture11 {
+	height: 60vh;
+	background-image: url(../images/pot.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+ .text11 {
+	color: salmon;
+	text-align: center;
+}
+
+.make22 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture22 {
+	height: 60vh;
+	background-image: url(../images/contour.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+.text22 {
+	color: salmon;
+	text-align: center;
+}
+
+
+.make33 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture33 {
+	height: 60vh;
+	background-image: url(../images/high.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+.text33 {
+	color: salmon;
+	text-align: center;
+}
+
+
+.product3 {
+	height: 70vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	padding: 5px;
+	grid-gap: 5px;
+	margin-top: 10px;
+}
+
+.make44 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture44 {
+	height: 60vh;
+	background-image: url(../images/lip.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+.text44 {
+	color: salmon;
+	text-align: center;
+}
+
+.make55 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture55 {
+	height: 60vh;
+	background-image: url(../images/linner.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+.text55 {
+	color: salmon;
+	text-align: center;
+}
+
+
+.make66 {
+	background: black;
+	display: grid;
+	padding: 10px;
+}
+
+.picture66 {
+	height: 60vh;
+	background-image: url(../images/shadow.jpg);
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+
+.text66 {
+	color: salmon;
+	text-align: center;
+}
+
+
+a {
+	text-decoration: none;
+}
+
+.footer {
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+	margin-bottom: 20px;
+}
+
+.foot {
+	border: 2px black solid;
+	margin-top: 50px;
+	height: 100px;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
